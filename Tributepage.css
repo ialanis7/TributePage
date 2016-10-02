@@ -1,0 +1,50 @@
+@import url(https://fonts.googleapis.com/css?family=Kumar+One+Outline); 
+@import url(https://fonts.googleapis.com/css?family=Kumar+One);
+@import url(https://fonts.googleapis.com/css?family=Nunito);
+
+h3 {
+      background-color: white;
+      border-radius: 1px;
+      margin-left: -100px;
+      margin-right: -100px;
+      padding-top: 5px;
+      padding-left: 5px;
+      border-color: black;
+      border-width: 5px;
+      border-style: solid;
+    }
+    body {
+      background-image: url(http://www.dailypicsupdate.com/wp-content/uploads/2013/01/dark-black-website-background.jpg);
+    }
+    .boxed {
+      background-color: white;
+      border-radius: 5px;
+      margin-left: 140px;
+      margin-right: 140px;
+      padding-top: 15px;
+    }
+    .center{
+    margin: 0 auto;
+    text-align: left;
+    width: 700px;
+}
+    .jumbotron
+    {
+      margin-top: 35px;
+      background-color: #CCC;
+      border-radius: 15px;
+    }
+    h1 {
+       font-family: 'Kumar One', cursive;
+     }
+   
+     #header {
+       font-family: 'Kumar One Outline', cursive;
+     }
+     
+     li {
+       font-family: 'Nunito', sans-serif;
+     }
+    #link-btn {
+      background-color: black;
+    }
